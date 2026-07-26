@@ -166,27 +166,17 @@ Generated visualizations include:
 
 # 🛠 Technologies
 
-Python
-
-TensorFlow / Keras
-
-Scikit-learn
-
-XGBoost
-
-PyTorch-TabNet
-
-SHAP
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Imbalanced-learn
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- XGBoost
+- PyTorch-TabNet
+- SHAP
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Imbalanced-learn
 
 ---
 
@@ -227,9 +217,9 @@ Project
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/your_username/Heart-Disease-Prediction.git
+git clone https://github.com/AIOussama/Heart-Disease-Prediction-Benchmark.git
 
-cd Heart-Disease-Prediction
+cd Heart-Disease-Prediction-Benchmark
 ```
 
 Install dependencies
@@ -245,7 +235,7 @@ pip install -r requirements.txt
 Open the notebook
 
 ```
-Projet Deep Learning.ipynb
+Heart_Disease_Prediction_Benchmark.ipynb
 ```
 
 Run all cells sequentially.
