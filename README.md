@@ -154,13 +154,13 @@ Generated visualizations include:
 ### SHAP Summary Plot
 
 <p align="center">
-<img src="images/shap_summary.png" width="700">
+<img src="Images/shap_summary.png" width="700">
 </p>
 
 ### Feature Importance
 
 <p align="center">
-<img src="images/shap_bar.png" width="700">
+<img src="Images/shap_bar.png" width="700">
 </p>
 ---
 
