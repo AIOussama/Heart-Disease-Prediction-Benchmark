@@ -294,8 +294,8 @@ SHAP Explainability
 
 # 👨‍💻 Author
 
-Oussama Alaoui
+Oussama Ghajdaoui Alaoui
 
-Master's Student in Intelligent Systems for Education
+Master's Student in Intelligent Systems 
 
 Artificial Intelligence • Machine Learning • Deep Learning • Data Science
